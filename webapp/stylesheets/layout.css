@@ -1,0 +1,19 @@
+body {
+	padding:25px;
+}
+div.line { 
+	width: 285px;
+	height: 380px;
+	border-style:double;
+	border-color:#747474;
+	border-width:7px;
+	padding:20px 10px;
+	vertical-align:middle;
+	display:table-cell;
+}
+div.grasp {
+	display:inline-block;
+}
+.wf-active body {
+ font-family: 'NanumGothic';
+}
