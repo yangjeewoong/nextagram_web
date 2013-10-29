@@ -1,19 +1,16 @@
-body {
-	padding:25px;
-}
-div.line { 
-	width: 285px;
-	height: 380px;
-	border-style:double;
-	border-color:#747474;
-	border-width:7px;
+div#wrap {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
 	padding:20px 10px;
 	vertical-align:middle;
-	display:table-cell;
 }
-div.grasp {
-	display:inline-block;
+
+div#button_list {
+	text-align: center;
+	vertical-align:middle;
 }
+
 .wf-active body {
  font-family: 'NanumGothic';
 }
