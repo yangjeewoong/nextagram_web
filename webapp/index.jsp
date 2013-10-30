@@ -4,11 +4,11 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<link rel="stylesheet" type="text/css" href="stylesheets/index_page.css">
-	<link rel="stylesheet" type="text/css" href="stylesheets/layout.css">
-	<link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/index_page.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/layout.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/bootstrap.min.css">
 	<script src="http://www.google.com/jsapi"></script>
-	<script language="javascript" src="javascripts/main_font.js"></script>
+	<script language="javascript" src="/javascripts/main_font.js"></script>
 	<title>Nextagram_web</title>
 </head>
 
