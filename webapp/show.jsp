@@ -22,7 +22,7 @@
 
 <a href="#" class="reply_opener" style="float: right;">댓글 목록 접기</a>
 
-<div id="reply_list">
+<div class="reply_list">
 	<div class="commentNum"></div>
 	<div class="commentList">
 		<c:forEach items="${comments}" var="comment">
@@ -33,6 +33,7 @@
 
 <hr>
 <form action="/board/${board.id}/comments" method="post">
+	<input type="hidden" name="id" value="${board.id}">
 	<textarea name="contents" rows="3" cols="50"></textarea><br />
 	<input type="submit" value="댓글 등록"/>
 </form>
